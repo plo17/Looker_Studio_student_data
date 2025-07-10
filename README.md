@@ -1,5 +1,4 @@
-
-# Student Analytics Dashboard  
+# Scholarships, Scores & Salaries: International Student Analytics
 
 ## Overview  
 Analysis of 5,000 international students (2019-2023) covering:  
@@ -17,7 +16,7 @@ Analysis of 5,000 international students (2019-2023) covering:
 - CSV file: `global_student_migration.csv` from Kaggle.  
 - Tools: Excel, Looker Studio.
 
-  ## Future Enhancements  
+## Future Enhancements  
 - Add machine learning model for salary prediction  
 - Incorporate cost-of-living adjustments  
 - Expand dataset
