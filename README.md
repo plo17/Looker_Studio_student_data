@@ -21,3 +21,5 @@ Analysis of 5,000 international students (2019-2023) covering:
 - Add machine learning model for salary prediction  
 - Incorporate cost-of-living adjustments  
 - Expand dataset
+
+''' looker studio
