@@ -1,5 +1,5 @@
 # Scholarships, Scores & Salaries: International Student Analytics
-
+description
 ## Overview  
 Analysis of 5,000 international students (2019-2023) covering:  
 - **Demographics**: Geographic distribution and top origin countries  
