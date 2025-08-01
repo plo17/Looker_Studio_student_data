@@ -22,4 +22,3 @@ Analysis of 5,000 international students (2019-2023) covering:
 - Incorporate cost-of-living adjustments  
 - Expand dataset
 
-''' looker studio
