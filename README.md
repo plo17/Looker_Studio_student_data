@@ -1,6 +1,7 @@
 # Scholarships, Scores & Salaries: International Student Analytics
 
 Analysis of international student data covering scholarships, scores, & salaries using Looker Studio.
+
 ## Overview  
 Analysis of 5,000 international students (2019-2023) covering:  
 - **Demographics**: Geographic distribution and top origin countries  
